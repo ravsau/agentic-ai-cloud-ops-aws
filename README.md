@@ -31,4 +31,8 @@ cd section-1-intro
 
 ## Course
 
+Watch the full playlist: [Agentic AI for Cloud Ops on AWS](https://www.youtube.com/playlist?list=PLQP5dDPLts67hOAy4IxfzwyrWwNSYbwzm)
+
+Get notified when the full course launches: [cloudyeti.io/courses/agentic-ai-cloud-ops](https://cloudyeti.io/courses/agentic-ai-cloud-ops)
+
 By [CloudYeti](https://www.youtube.com/@cloudyeti)
