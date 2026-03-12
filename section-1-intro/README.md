@@ -34,3 +34,14 @@ server is reachable.
 ```
 
 Replace `<IP>` with the public IP from `./run-demo.sh deploy` output.
+
+## Diagrams
+
+Visual references for Lecture 1.2 — open these in [Excalidraw](https://excalidraw.com) by dragging the file in.
+
+| File | What it shows |
+|------|---------------|
+| `1-four-pillars-of-an-agent.excalidraw` | The 4 things that make something agentic: Goal, Tools, Reasoning Loop, Autonomy |
+| `2-agentic-spectrum.excalidraw` | The spectrum from plain LLM call → ChatGPT/Claude web → fully agentic (Claude Code) |
+| `3-agent-vs-script-vs-llm.excalidraw` | 2-axis chart: LLM can reason but can't act, script can act but can't reason, agent does both |
+| `4-agent-loop-cloud-ops.excalidraw` | The agentic loop: goal → model → action → tools → observation → back to model → output |
